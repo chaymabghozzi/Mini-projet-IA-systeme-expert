@@ -43,7 +43,7 @@ class Greetings(KnowledgeEngine):
 	@DefFacts()
 	def _initial_action(self):
 		print("")
-		print("Bonjour ! Nous somme BEN GHOZZI CHAIMA & DJEBBI HANI deux étudients en 2ING-G01  nous somme là pour vous aider à choisir la meilleur méthodologie de développement logiciel pour votre projet .\n")
+		print("Bonjour ! je m'appelle Ben Ghozzi Chayma je suis là pour vous aider à choisir la meilleur méthodologie de développement logiciel pour votre projet .\n")
 		print("Ce système expert permet de choisir la bonne la méthodologie de développement logiciel à utiliser pour un projet spécifique.\n")
 		print("C'est pourquoi il est préférable d'analyser chaque scénario de projet par rapport à un ensemble de questions suivantes :")
 		print("")
